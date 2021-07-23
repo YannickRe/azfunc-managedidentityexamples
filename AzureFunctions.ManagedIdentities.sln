@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNet.CRM", "DotNet.CRM\DotNet.CRM.csproj", "{1F378A5E-097C-4714-95AF-FC01FD1A883F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetCore.Dataverse", "DotNetCore.Dataverse\DotNetCore.Dataverse.csproj", "{3745EB8F-513D-4542-99B4-89C02BF3C9FA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetCore.SharePointOnline", "DotNetCore.SharePointOnline\DotNetCore.SharePointOnline.csproj", "{94F9E288-2B0F-4029-9CA3-6D1DAC599165}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetCore.MicrosoftGraph4", "DotNetCore.MicrosoftGraph4\DotNetCore.MicrosoftGraph4.csproj", "{841AE6B1-6082-4F4D-89D0-75E10FCA9EF6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetCore.Handlers", "DotNetCore.Handlers\DotNetCore.Handlers.csproj", "{818597A3-3FDD-494E-BDA4-7638ADBF1F40}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNet.Dataverse", "DotNet.Dataverse\DotNet.Dataverse.csproj", "{31D7DF09-26E3-4865-9D0F-39294AB7F09E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F378A5E-097C-4714-95AF-FC01FD1A883F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F378A5E-097C-4714-95AF-FC01FD1A883F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F378A5E-097C-4714-95AF-FC01FD1A883F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F378A5E-097C-4714-95AF-FC01FD1A883F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3745EB8F-513D-4542-99B4-89C02BF3C9FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3745EB8F-513D-4542-99B4-89C02BF3C9FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3745EB8F-513D-4542-99B4-89C02BF3C9FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3745EB8F-513D-4542-99B4-89C02BF3C9FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94F9E288-2B0F-4029-9CA3-6D1DAC599165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94F9E288-2B0F-4029-9CA3-6D1DAC599165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94F9E288-2B0F-4029-9CA3-6D1DAC599165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94F9E288-2B0F-4029-9CA3-6D1DAC599165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{841AE6B1-6082-4F4D-89D0-75E10FCA9EF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{841AE6B1-6082-4F4D-89D0-75E10FCA9EF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{841AE6B1-6082-4F4D-89D0-75E10FCA9EF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{841AE6B1-6082-4F4D-89D0-75E10FCA9EF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{818597A3-3FDD-494E-BDA4-7638ADBF1F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{818597A3-3FDD-494E-BDA4-7638ADBF1F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{818597A3-3FDD-494E-BDA4-7638ADBF1F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{818597A3-3FDD-494E-BDA4-7638ADBF1F40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31D7DF09-26E3-4865-9D0F-39294AB7F09E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D7DF09-26E3-4865-9D0F-39294AB7F09E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31D7DF09-26E3-4865-9D0F-39294AB7F09E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31D7DF09-26E3-4865-9D0F-39294AB7F09E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F5DF54D-600D-45BF-A9CE-FC4082283923}
+	EndGlobalSection
+EndGlobal
